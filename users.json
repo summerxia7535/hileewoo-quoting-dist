@@ -2,8 +2,8 @@
   "users": [
     {
       "username": "admin",
-      "salt": "6J4IWN3xCQKnNFzZQuOWBA==",
-      "pwd_hash": "fDb0yYJ6Q8VezB3d+m50SnSvcEt8cLchJye1QIGY4I4=",
+      "salt": "eD/UEtygq+6q8NmOV7YAjA==",
+      "pwd_hash": "7ap9DefLUpI9js5Mag1/ePeVAAQFHAL88mM2yGLRaZ0=",
       "role": "admin",
       "status": "active"
     }
