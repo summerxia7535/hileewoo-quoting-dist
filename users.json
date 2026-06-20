@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "salt": "6J4IWN3xCQKnNFzZQuOWBA==",
+      "pwd_hash": "fDb0yYJ6Q8VezB3d+m50SnSvcEt8cLchJye1QIGY4I4=",
+      "role": "admin",
+      "status": "active"
+    }
+  ]
+}
