@@ -6,6 +6,20 @@
       "pwd_hash": "7ap9DefLUpI9js5Mag1/ePeVAAQFHAL88mM2yGLRaZ0=",
       "role": "admin",
       "status": "active"
+    },
+    {
+      "username": "Tang",
+      "salt": "7op/GgQnbTddIJCwbppnWA==",
+      "pwd_hash": "UGmBSBaBq3JK0O+kSVoVneff2LQo/mzVTcG4WBdyTcQ=",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "username": "Amber",
+      "salt": "sC/ELPma0hT1RHfL0sOU9Q==",
+      "pwd_hash": "VLB3ej50swurkEmQRQDHaHb2+MjA0S+8pMNqxIHCtQM=",
+      "role": "user",
+      "status": "active"
     }
   ]
 }
